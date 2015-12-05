@@ -2,8 +2,10 @@
 
 | MileStone Name  | Proposed Completion Date  | Description  | Proposer  |
 |---|---|---|---|
-|  We Should Create a Mile Stone Tablee| December 4, 2015 | To keep track of milestones in some written form | Karthik Raju|
-|For the Sake of a Second Milestone|Cookie|And|Wine| 
+|Get Involved page| December 7, 2015 | Finish Get Involved page | SP |
+|Add more content (visual and written)| December 7, 2015 | Images, videos, shorter descriptions | SP | 
+|Get feedback from the team and improve website| December 11, 2015 | Iteration | SP | 
+
 
 
 #Projects
