@@ -10,5 +10,8 @@
 
 | Project Name  | Proposed Completion Date  | Description  | Proposer  |
 |---|---|---|---|
-|  Projects | Stuff | Stuff | Stuff|
-|More Cookies|Stuff|Stuff|Stuff| 
+|New Website|December 11, 2015|Design improvements + complete website code|Team|
+|Site for Democracy|March 20, 2015|Redesign, implement site for democracy|Larry Diamond|
+|Add Resources Page to Website|January 15, 2015|Add a page with social good resources|Team|
+|Database of Projects|February 15, 2015|Create database of projects for social good|Team|
+|Fellowship Management|Summer 2015|Guide and mentor fellows|Team|
